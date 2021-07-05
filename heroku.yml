@@ -1,4 +1,3 @@
 build:
   docker:
-    exercisetrackermern: frontend/Dockerfile
-    backend: Dockerfile
+    exercisetrackermern: Dockerfile
